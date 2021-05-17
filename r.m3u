@@ -1,4 +1,6 @@
 #EXTM3U
+#PLAYLIST:"Canale slavone"
+#EXTGRP:Rusesti
 #EXTINF:-1 tvg-id="Rossiya1Kaluga.ru" tvg-name="Россия 1 (Калуга)" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="General",Россия 1 (Калуга)
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
 
