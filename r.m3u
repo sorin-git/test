@@ -1,6 +1,6 @@
 #EXTM3U
-#PLAYLIST:"--------- RUSESTI -------------"
-#EXTINF:0 tvg-id="--------- RUSESTI -------------" tvg-name="--------- RUSESTI -------------" tvg-country="RU" tvg-language="Russian" tvg-logo="https://icons.iconarchive.com/icons/wikipedia/flags/256/RU-Russia-Flag-icon.png" group-title="--------- RUSESTI -------------",----------RUSESTI-------
+#PLAYLIST:"-----RUSESTI--------"
+#EXTINF:0 tvg-id="-----RUSESTI--------" tvg-name="-----RUSESTI--------" tvg-country="RU" tvg-language="Russian" tvg-logo="https://icons.iconarchive.com/icons/wikipedia/flags/256/RU-Russia-Flag-icon.png" group-title="-----RUSESTI--------",-----RUSESTI--------
 https://rt-news-gd.secure2.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-id="Rossiya1Kaluga.ru" tvg-name="Россия 1 (Калуга)" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="General",Россия 1 (Калуга)
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
@@ -14,15 +14,10 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="Rossiya24.ru" tvg-name="Россия 24" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/wu7O85f.png" group-title="News",Россия 24 (576p)
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Rossiya24.ru" tvg-name="Россия 24" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/wu7O85f.png" group-title="News",Россия 24 (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s21/index.m3u8
 #EXTINF:-1 tvg-id="Rossiya24NNovgorod.ru" tvg-name="Россия 24 (Н.Новгород)" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="News",Россия 24 (Н.Новгород) (576p)
 https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
 #EXTINF:-1 tvg-id="Rossiya24Ulyanovsk.ru" tvg-name="Россия 24 (Ульяновск)" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="News",Россия 24 (Ульяновск) (720p)
 http://gtrk-volga.ru/media/hr24/stream1.m3u8
-#EXTINF:-1 tvg-id="Rossiya24Chita.ru" tvg-name="Россия 24 (Чита)" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="News",Россия 24 (Чита) (360p)
-http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
 #EXTINF:-1 tvg-id="Rossiya24Chita.ru" tvg-name="Россия 24 (Чита)" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="News",Россия 24 (Чита) (576p)
 http://tv-online.gtrkchita.ru:8080/hls/r24-chita_576p.m3u8
 #EXTINF:-1 tvg-id="RossiyaK.ru" tvg-name="Россия К" tvg-country="RU" tvg-language="" tvg-logo="" group-title="",Россия К
