@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:"--------- RUSESTI -------------"
 #EXTINF:0 tvg-id="--------- RUSESTI -------------" tvg-name="--------- RUSESTI -------------" tvg-country="RU" tvg-language="Russian" tvg-logo="https://icons.iconarchive.com/icons/wikipedia/flags/256/RU-Russia-Flag-icon.png" group-title="--------- RUSESTI -------------",----------RUSESTI-------
-http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/playlist.m3u8
+https://rt-news-gd.secure2.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-id="Rossiya1Kaluga.ru" tvg-name="Россия 1 (Калуга)" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="General",Россия 1 (Калуга)
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-id="Rossiya1MariyEl.ru" tvg-name="Россия 1 (Марий Эл)" tvg-country="RU" tvg-language="" tvg-logo="" group-title="",Россия 1 (Марий Эл) (720p)
