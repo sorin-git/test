@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:"--------- RUSESTI -------------"
 #EXTINF:0 tvg-id="--------- RUSESTI -------------" tvg-name="--------- RUSESTI -------------" tvg-country="RU" tvg-language="Russian" tvg-logo="https://images.app.goo.gl/CV1MtzC16ot7LGgL7" group-title="--------- RUSESTI -------------",----------RUSESTI-------
-http://46.166.215.43:81/udp/233.173.129.34:1234
+rtp://@239.186.66.139:10000
 #EXTINF:-1 tvg-id="Rossiya1Kaluga.ru" tvg-name="Россия 1 (Калуга)" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="General",Россия 1 (Калуга)
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-id="Rossiya1MariyEl.ru" tvg-name="Россия 1 (Марий Эл)" tvg-country="RU" tvg-language="" tvg-logo="" group-title="",Россия 1 (Марий Эл) (720p)
