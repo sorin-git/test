@@ -2,6 +2,8 @@
 #PLAYLIST:"-----RUSESTI--------"
 #EXTINF:0 tvg-id="-----RUSESTI--------" tvg-name="-----RUSESTI--------" tvg-country="RU" tvg-language="Russian" tvg-logo="https://icons.iconarchive.com/icons/wikipedia/flags/256/RU-Russia-Flag-icon.png" group-title="-----RUSESTI--------",-----RUSESTI--------
 https://rt-news-gd.secure2.footprint.net/1103.m3u8
+#EXTINF:-1 tvg-id="RossiyaRTR.ru" tvg-name="Россия РТР" tvg-country="RU" tvg-language="" tvg-logo="" group-title="-----RUSESTI--------",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Kuban24Orbita.ru" tvg-name="Кубань 24 Орбита" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="-----RUSESTI--------",Кубань 24 Орбита
 https://stream.kuban24.tv:1500/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Kultura.ru" tvg-name="Культура" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dlGv71S.png" group-title="",Культура
