@@ -22,6 +22,8 @@ https://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/index.m3u8
 https://uiptv.do.am/1ufc/000000005/playlist.m3u8
 #EXTINF:-1 tvg-id="Pervyykanal.ru" tvg-name="Первый канал" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/iW5vhkb.png" group-title="General",Первый канал
 http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF:-1 tvg-id="RBK.ru" tvg-name="РБК" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="Business",РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 tvg-id="Pervyykanal.ru" tvg-name="Первый канал" tvg-country="RU" tvg-language="" tvg-logo="" group-title="",Первый канал
 https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
 #EXTINF:-1 tvg-id="PervyykanalEvraziya.ru" tvg-name="Первый канал Евразия" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="General",Первый канал Евразия
