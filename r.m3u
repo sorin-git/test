@@ -20,6 +20,8 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 http://188.68.162.146:81/udp/239.2.100.31:4321
 #EXTINF:-1 tvg-id="Moskva24.ru" tvg-name="Москва 24 D" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="-----RUSESTI--------",Москва 24 D
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="Moskva24.ru" tvg-name="Москва 24 E" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="-----RUSESTI--------",Москва 24 E
+http://195.78.104.249:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="Kuban24Orbita.ru" tvg-name="Кубань 24 Орбита" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="-----RUSESTI--------",Кубань 24 Орбита
 https://stream.kuban24.tv:1500/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Kultura.ru" tvg-name="Культура" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dlGv71S.png" group-title="",Культура
